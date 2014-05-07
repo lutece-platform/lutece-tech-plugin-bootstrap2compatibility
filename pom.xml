@@ -33,12 +33,12 @@
 
     <properties>
         <componentName>bootstrap2compatibility</componentName>
-        <jiraProjectName></jiraProjectName>
-        <jiraComponentId></jiraComponentId>
+        <jiraProjectName>BOOTSTRAP</jiraProjectName>
+        <jiraComponentId>12357</jiraComponentId>
     </properties>
     <scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/technical/</connection>
-        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/technical/</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/technical/</url>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/technical/plugin-bootstrap2compatibility</connection>
+        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/technical/plugin-bootstrap2compatibility</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/technical/plugin-bootstrap2compatibility</url>
     </scm>
 </project>
